@@ -22,7 +22,20 @@ Các quốc gia như **Australia, Belgium, Cyprus, Finland, Italy** cũng có đ
 
 Một số quốc gia có doanh thu thấp như **Bahrain, Poland, Saudi Arabia, và Portugal**, cần tập trung vào các chiến lược phát triển tại đây.
 
-## 3. Đề xuất Giải pháp Tăng Doanh Thu và Tối ưu Hoạt Động Kinh Doanh
+## 3. Nhận xét về Doanh thu và Số lượng hàng được đặt theo tháng:
+Dựa trên dữ liệu về **Số lượng (Quantity)** và **Giá trị đơn hàng (OrderValue)** theo tháng, có thể nhận thấy những điểm sau:
+
+- **Tháng cao điểm:** **November** và **December** là hai tháng có doanh thu và số lượng đơn hàng cao nhất, đặc biệt là tháng 11 với **1,509,496.33** USD. Đây có thể là kết quả của các chương trình khuyến mãi mùa lễ hội hoặc sự gia tăng nhu cầu vào cuối năm.
+   
+- **Sự giảm dần trong những tháng sau:** Sau tháng **November** và **December**, doanh thu và số lượng đơn hàng có xu hướng giảm dần, đặc biệt là trong các tháng đầu năm như **January** và **February**.
+  
+- **January** và **February** có mức giảm rõ rệt, với **Quantity** và **OrderValue** lần lượt giảm từ **754,507** và **1,509,496.33** xuống chỉ còn **387,785** và **691,364.56** trong tháng 1.
+
+- **Các tháng trung bình:** Các tháng **May, June, August, September** đều có số lượng và giá trị đơn hàng khá ổn định, không có sự dao động quá mạnh mẽ. Đây là các tháng cần được duy trì và phát triển hơn nữa để tăng trưởng bền vững.
+   
+- **Tháng yếu nhất:** **February** là tháng có doanh thu và số lượng đơn hàng thấp nhất trong năm, với chỉ **523,631.89** USD. Có thể đây là tháng giảm tốc do nhu cầu thấp sau kỳ nghỉ lễ hoặc do chiến lược marketing chưa đủ mạnh mẽ.
+
+## 4. Đề xuất Giải pháp Tăng Doanh Thu và Tối ưu Hoạt Động Kinh Doanh
 
 ### Chăm sóc nhóm khách hàng "Champions":
 - Tiếp tục cung cấp ưu đãi và chương trình khuyến mãi đặc biệt.
@@ -52,6 +65,24 @@ Một số quốc gia có doanh thu thấp như **Bahrain, Poland, Saudi Arabia,
 - Các quốc gia như **United Kingdom, France, Germany, Spain** có đóng góp lớn vào doanh thu, cần duy trì và phát triển thị trường này.
 - Đầu tư vào quảng cáo và khuyến mãi cho những thị trường này, đồng thời tăng cường sự hiện diện trực tuyến.
 
-### Phân tích hành vi khách hàng và cải thiện trải nghiệm:
-- Sử dụng công cụ phân tích dữ liệu để theo dõi hành vi mua sắm và cải thiện trải nghiệm khách hàng.
-- Phát triển chiến lược cá nhân hóa dựa trên hành vi khách hàng để tăng tỷ lệ chuyển đổi và doanh thu.
+### **Tăng cường chiến dịch marketing mùa lễ hội:**
+   - Các tháng **November** và **December** có doanh thu cao nhất, do đó, nên tiếp tục phát triển các chiến dịch marketing đặc biệt vào cuối năm như khuyến mãi, giảm giá cho dịp lễ để duy trì đà tăng trưởng doanh thu.
+   - Đặc biệt, nên duy trì các chương trình khách hàng thân thiết để tận dụng tối đa mức độ mua sắm trong mùa cao điểm.
+
+### **Khuyến khích mua sắm trong các tháng thấp:**
+   - Các tháng như **January** và **February** có doanh thu thấp, vì vậy cần thiết phải có các chiến dịch khuyến mãi hoặc ưu đãi đặc biệt cho khách hàng cũ và khách hàng mới để kích cầu mua sắm trong những tháng này.
+   - Có thể tổ chức các chương trình giảm giá “sau Tết” hoặc các ưu đãi vào mùa xuân để duy trì nhu cầu.
+
+### **Duy trì chiến lược bền vững:**
+   - Các tháng **May, June, August, September** có doanh thu khá ổn định. Điều này cho thấy các chiến lược marketing trong các tháng này khá hiệu quả. Tuy nhiên, cần có các chiến lược duy trì và phát triển để giữ doanh thu ổn định, chẳng hạn như chương trình khuyến mãi hoặc chiến dịch giới thiệu sản phẩm mới.
+
+### **Tăng cường các chiến dịch tiếp cận khách hàng mới và chăm sóc khách hàng trung thành:**
+   - Mặc dù các tháng giữa năm có doanh thu khá ổn định, việc tiếp cận khách hàng mới và chăm sóc khách hàng trung thành là điều cần thiết để duy trì và tăng trưởng doanh thu trong suốt năm.
+   - Đặc biệt, hãy tận dụng các công cụ phân tích khách hàng để hiểu rõ hơn về hành vi và nhu cầu của khách hàng trong từng tháng để tối ưu hóa chiến lược marketing.
+
+### **Khảo sát và phân tích nhu cầu thị trường:**
+   - Cần nghiên cứu sâu hơn lý do tại sao doanh thu và số lượng đơn hàng giảm vào **January** và **February**. Có thể thực hiện khảo sát khách hàng hoặc phân tích hành vi để tìm hiểu về nhu cầu thị trường trong những tháng này.
+   - Thực hiện các chiến dịch marketing địa phương hóa hoặc chiến lược giảm giá để thu hút khách hàng trong các tháng ít nhu cầu.
+
+### **Khuyến khích mua hàng vào những tháng thấp điểm:**
+   - Các chương trình khuyến mãi như “Mua sắm sau Tết” hoặc các ưu đãi tháng 2 có thể là giải pháp hữu hiệu để tạo ra động lực cho người tiêu dùng quay lại sau kỳ nghỉ lễ.
